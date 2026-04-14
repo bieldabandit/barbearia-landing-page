@@ -1,56 +1,77 @@
-# 💈 Barbearia Ribx
+# 💈 Barbearia Fictícia - Landing Page
 
-Landing page moderna e responsiva para uma barbearia fictícia, focada em conversão de clientes.
+Projeto de uma landing page moderna para uma barbearia fictícia, desenvolvida com HTML e CSS puro, com foco em design responsivo, animações suaves e boa experiência do usuário.
 
 ---
 
-## 🚀 Acesse o projeto
+## 🚀 Demonstração
 
-🔗 https://bieldabandit.github.io/barbearia-landing-page/
+📱 Site responsivo (desktop e mobile)  
+💻 Interface moderna com tema escuro e dourado  
+✨ Animações suaves ao carregar a página  
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-* HTML5
-* CSS3
-
----
-
-## 📱 Responsividade
-
-O site foi desenvolvido para funcionar perfeitamente em:
-
-* 📱 Celulares
-* 💻 Computadores
+- HTML5  
+- CSS3  
+- Google Fonts (Poppins)  
+- Flexbox  
+- Media Queries  
+- Animações CSS  
 
 ---
 
 ## 🎯 Funcionalidades
 
-* Apresentação dos serviços
-* Depoimentos de clientes
-* Localização integrada
-* Botão direto para WhatsApp
+- Layout moderno e responsivo  
+- Seção de serviços com cards interativos  
+- Depoimentos de clientes  
+- Mapa de localização integrado  
+- Botão de agendamento via WhatsApp  
+- Animações suaves de entrada  
 
 ---
 
-## 📂 Estrutura
+## 📱 Responsividade
 
-├── index.html
-├── Css/
-│   └── style.css
-├── Imagens/
-```
+O site se adapta automaticamente para:
+
+- 📱 Celulares  
+- 💻 Notebooks  
+- 🖥️ Telas maiores  
 
 ---
 
-## 💡 Objetivo
+## 💡 Objetivo do projeto
 
-Projeto criado para prática de desenvolvimento web e construção de portfólio.
+Este projeto foi criado com fins de estudo e portfólio, com foco em:
+
+- Prática de HTML e CSS  
+- Estruturação de layout moderno  
+- Responsividade  
+- UI/UX básico  
+
+---
+
+## 📈 Melhorias futuras
+
+- Adicionar JavaScript para agendamento real  
+- Criar sistema de login  
+- Integrar backend  
+- Melhorar animações com scroll reveal  
+- Versão PWA (app instalável)
 
 ---
 
 ## 👨‍💻 Autor
 
-Gabriel Pires
+Desenvolvido por **Ribx (Gabriel)**  
+Estudante de desenvolvimento web e tecnologia 🚀
+
+---
+
+## 📌 Observação
+
+Este projeto é fictício e não representa uma barbearia real.
