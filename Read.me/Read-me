@@ -1,0 +1,78 @@
+# 💈 Barbearia Fictícia - Landing Page
+
+Projeto de uma landing page moderna para uma barbearia fictícia, desenvolvida com HTML e CSS puro, com foco em design responsivo, animações suaves e boa experiência do usuário.
+
+---
+
+## 🚀 Demonstração
+
+📱 Site responsivo (desktop e mobile)  
+💻 Interface moderna com tema escuro e dourado  
+✨ Animações suaves ao carregar a página  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- Google Fonts (Poppins)  
+- Flexbox  
+- Media Queries  
+- Animações CSS  
+
+---
+
+## 🎯 Funcionalidades
+
+- Layout moderno e responsivo  
+- Seção de serviços com cards interativos  
+- Depoimentos de clientes  
+- Mapa de localização integrado  
+- Botão de agendamento via WhatsApp  
+- Animações suaves de entrada  
+
+---
+
+## 📱 Responsividade
+
+O site se adapta automaticamente para:
+
+- 📱 Celulares  
+- 💻 Notebooks  
+- 🖥️ Telas maiores  
+
+
+---
+
+## 💡 Objetivo do projeto
+
+Este projeto foi criado com fins de estudo e portfólio, com foco em:
+
+- Prática de HTML e CSS  
+- Estruturação de layout moderno  
+- Responsividade  
+- UI/UX básico  
+
+---
+
+## 📈 Melhorias futuras
+
+- Adicionar JavaScript para agendamento real  
+- Criar sistema de login  
+- Integrar backend  
+- Melhorar animações com scroll reveal  
+- Versão PWA (app instalável)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Ribx (Gabriel)**  
+Estudante de desenvolvimento web e tecnologia 🚀
+
+---
+
+## 📌 Observação
+
+Este projeto é fictício e não representa uma barbearia real.
