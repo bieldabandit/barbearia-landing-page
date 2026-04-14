@@ -1,53 +1,56 @@
-# 💈 Barbearia Fictícia, Ribx- Landing Page
+# 💈 Barbearia Ribx
 
-Projeto de uma landing page moderna para uma barbearia fictícia, desenvolvida com HTML e CSS puro, com foco em design responsivo, animações suaves e boa experiência do usuário.
-
----
-
-## 🚀 Demonstração
-
-📱 Site responsivo (desktop e mobile)  
-💻 Interface moderna com tema escuro e dourado  
-✨ Animações suaves ao carregar a página  
+Landing page moderna e responsiva para uma barbearia fictícia, focada em conversão de clientes.
 
 ---
 
-## 📸 Preview
+## 🚀 Acesse o projeto
 
-<img
+🔗 https://bieldabandit.github.io/barbearia-landing-page/
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
-- Google Fonts (Poppins)  
-- Flexbox  
-- Media Queries  
-- Animações CSS  
-
----
-
-## 🎯 Funcionalidades
-
-- Layout moderno e responsivo  
-- Seção de serviços com cards interativos  
-- Depoimentos de clientes  
-- Mapa de localização integrado  
-- Botão de agendamento via WhatsApp  
-- Animações suaves de entrada  
+* HTML5
+* CSS3
 
 ---
 
 ## 📱 Responsividade
 
-O site se adapta automaticamente para:
+O site foi desenvolvido para funcionar perfeitamente em:
 
-- 📱 Celulares  
-- 💻 Notebooks  
-- 🖥️ Telas maiores  
+* 📱 Celulares
+* 💻 Computadores
 
 ---
 
-## 📂 Estrutura do projeto
+## 🎯 Funcionalidades
+
+* Apresentação dos serviços
+* Depoimentos de clientes
+* Localização integrada
+* Botão direto para WhatsApp
+
+---
+
+## 📂 Estrutura
+
+├── index.html
+├── Css/
+│   └── style.css
+├── Imagens/
+```
+
+---
+
+## 💡 Objetivo
+
+Projeto criado para prática de desenvolvimento web e construção de portfólio.
+
+---
+
+## 👨‍💻 Autor
+
+Gabriel Pires
